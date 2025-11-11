@@ -1,2 +1,2 @@
-console.log('test12345');
+console.log('test');
 
